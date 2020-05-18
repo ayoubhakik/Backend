@@ -1,0 +1,16 @@
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.deps.json
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.runtimeconfig.json
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.runtimeconfig.dev.json
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.dll
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.pdb
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\netcoreapp2.1\GestionDesEtudiants.Views.dll
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.RazorAssemblyInfo.cache
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.RazorAssemblyInfo.cs
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.AssemblyInfoInputs.cache
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.AssemblyInfo.cs
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.RazorTargetAssemblyInfo.cache
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.dll
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.pdb
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.csproj.CopyComplete
+C:\Users\yuri\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\netcoreapp2.1\GestionDesEtudiants.csprojAssemblyReference.cache
